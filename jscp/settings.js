@@ -19,7 +19,7 @@ let settings = {
             image: './image/4f3f0804-b377-4c84-974f-5ab9a0cc6d09.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
-            image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
+            image: './image/photos/P2.png', // Menggantikan lhvuck.png (Index 1)
         },
 
         // --- Lembar 2 (data-page="1") ---
