@@ -9,14 +9,14 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
+    sequence: 'HAPPY|BIRTHDAY|TO|KEYLA|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
     gift: './image/happy3.gif',
     enableBook: true,
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
+            image: './image/4f3f0804-b377-4c84-974f-5ab9a0cc6d09.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b1.png', // Menggantikan lhvuck.png (Index 1)
