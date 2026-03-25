@@ -28,7 +28,7 @@ let settings = {
             content: 'Happy Birthday Sayang 💗' 
         },
         { 
-            image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
+            image: './image/photos/P3.png', // Menggantikan 8u5tf7.png (Index 3)
         },
 
         // --- Lembar 3 (data-page="2") ---
